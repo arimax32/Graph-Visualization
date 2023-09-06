@@ -1,3 +1,3 @@
 # Graph-Visualization
 
-![](https://github.com/arimax32/Graph-Visualization/public/graph_vis.gif)
+![](https://github.com/arimax32/Graph-Visualization/blob/main/public/graph_vis.gif)
